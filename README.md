@@ -1,2 +1,1 @@
-# alx-backend-storage
-This repo contain directories that have files with code of storage
+my SQL directory code of storage
